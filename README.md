@@ -84,5 +84,7 @@ ESP32 gửi dữ liệu:
   "light": true,
   "fan": false
 }
+## video chạy wed 
+trong file videodemo( do quá tải ko chèn đủ đc vào )
 ## video chạy hệ thống
 https://github.com/user-attachments/assets/22ea69df-f735-44ce-b56c-d71e2540307d
